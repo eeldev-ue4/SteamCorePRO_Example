@@ -1,0 +1,11 @@
+.vs/
+Intermediate/
+Saved/
+Binaries/
+Build/
+**/Intermediate
+**/Saved
+**/Binaries
+**/Build
+*.sln
+Plugins/
